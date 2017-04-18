@@ -7,7 +7,7 @@ var JKBot = require('./lib/jkbot');
 //};
 
 var token = process.env.BOT_API_KEY;
-var dbPath = process.env.BOT_DB_PATH;
+var dbPath = '';
 var name = process.env.BOT_NAME;
 
 var settings = {
