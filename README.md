@@ -21,3 +21,4 @@ This slack bot replies with jokes when the text 'jkbot' is mentioned in the mess
 
 
 
+### [Kudos to Luciano Mammino and scotch.io for providing guideline to create this custom bot](https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers) 
