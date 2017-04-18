@@ -1,2 +1,2 @@
-# custom_slack_bot_nodejs_app
-Custom slack bot build using nodejs. Cracks jokes when 'jkbot' is mentioned in the message.
+# Custom slack bot build using node js
+This slack bot replies with jokes when the text 'jkbot' is mentioned in the message.
